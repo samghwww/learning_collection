@@ -1,0 +1,3 @@
+授权成功
+您的免费API Key为: sk-j7DJ7lbme7Vi2N8tQp821O3liGdRl3SvHeJTFB7rTIwToAig
+请妥善保管，不要泄露给他人，如泄漏造成滥用可能会导致Key被封禁
